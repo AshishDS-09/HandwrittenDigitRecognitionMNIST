@@ -50,7 +50,7 @@ The model is trained, evaluated, and integrated with a simple GUI using Tkinter 
 ## 🙋‍♂️ Author
 
 Ashish Deep Sen 
-GitHub: [github.com/Ashishdeepsen](https://github.com/Ashishdeepsen)
+GitHub: [github.com/AshishDS-09](https://github.com/AshisDS-09)
 
 ---
 
